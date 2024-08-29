@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+## v9 (2022-06-09)
+
+* [#243](https://github.com/heroku/heroku-buildpack-static/pull/243) Buildpack is officially deprecated
+
+## v8 (2022-05-19)
+
+* [#240](https://github.com/heroku/heroku-buildpack-static/pull/240) Update ngx_mruby from 2.2.3 to 2.2.4.
+* [#240](https://github.com/heroku/heroku-buildpack-static/pull/240) Update nginx from 1.19.0 to 1.21.3.
+* [#238](https://github.com/heroku/heroku-buildpack-static/pull/238) Drop support for Cedar-14 and Heroku-16.
 
 ## v7 (2021-03-09)
 
